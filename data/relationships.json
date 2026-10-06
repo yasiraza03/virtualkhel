@@ -1,0 +1,86 @@
+[
+ {
+  "a": "demons-souls",
+  "b": "dark-souls",
+  "type": "spiritual-successor",
+  "note": "Dark Souls is widely described as the spiritual successor to Demon's Souls (same studio, same design lineage).",
+  "source": "curated"
+ },
+ {
+  "a": "dark-souls",
+  "b": "elden-ring",
+  "type": "design-lineage",
+  "note": "Elden Ring continues FromSoftware's action-RPG design lineage from Demon's Souls and Dark Souls.",
+  "source": "curated"
+ },
+ {
+  "a": "half-life-2",
+  "b": "portal-2",
+  "type": "shared-universe",
+  "note": "Portal is set in the same fictional universe as Half-Life (Aperture Science / Black Mesa).",
+  "source": "curated"
+ },
+ {
+  "a": "portal",
+  "b": "half-life-2",
+  "type": "shared-universe",
+  "note": "Portal is set in the same fictional universe as Half-Life (Aperture Science / Black Mesa).",
+  "source": "curated"
+ },
+ {
+  "a": "apex-legends",
+  "b": "titanfall-2",
+  "type": "shared-universe",
+  "note": "Apex Legends is set in the Titanfall universe.",
+  "source": "curated"
+ },
+ {
+  "a": "alan-wake",
+  "b": "control",
+  "type": "shared-universe",
+  "note": "Alan Wake and Control are explicitly linked as part of Remedy's connected universe.",
+  "source": "curated"
+ },
+ {
+  "a": "alan-wake",
+  "b": "alan-wake-2",
+  "type": "design-lineage",
+  "note": "Alan Wake 2 is the direct sequel, continuing the same story and studio's design.",
+  "source": "curated"
+ },
+ {
+  "a": "bloodborne",
+  "b": "lies-of-p",
+  "type": "design-lineage",
+  "note": "Lies of P is widely described as following Bloodborne's aggressive souls-like design.",
+  "source": "curated"
+ },
+ {
+  "a": "demons-souls",
+  "b": "nioh-3",
+  "type": "design-lineage",
+  "note": "Team Ninja's Nioh series follows the souls-like template FromSoftware established.",
+  "source": "curated"
+ },
+ {
+  "a": "dark-souls",
+  "b": "star-wars-jedi-fallen-order",
+  "type": "design-lineage",
+  "note": "Fallen Order's combat and checkpoint design were openly modelled on Dark Souls.",
+  "source": "curated"
+ },
+ {
+  "a": "metal-gear-solid-v-the-phantom-pain",
+  "b": "death-stranding",
+  "type": "design-lineage",
+  "note": "Death Stranding is Kojima Productions' first game after Metal Gear Solid V, by the same director.",
+  "source": "curated"
+ },
+ {
+  "a": "uncharted-4-a-thiefs-end",
+  "b": "uncharted-the-lost-legacy",
+  "type": "design-lineage",
+  "note": "The Lost Legacy is a standalone expansion built on Uncharted 4.",
+  "source": "curated"
+ }
+]

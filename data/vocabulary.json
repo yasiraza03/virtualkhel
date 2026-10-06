@@ -1,0 +1,712 @@
+[
+ {
+  "tag": "open-world",
+  "category": "mechanic",
+  "label": "open world"
+ },
+ {
+  "tag": "exploration",
+  "category": "mechanic",
+  "label": "exploration"
+ },
+ {
+  "tag": "crafting",
+  "category": "mechanic",
+  "label": "crafting"
+ },
+ {
+  "tag": "base-building",
+  "category": "mechanic",
+  "label": "base building"
+ },
+ {
+  "tag": "building",
+  "category": "mechanic",
+  "label": "building"
+ },
+ {
+  "tag": "stealth",
+  "category": "mechanic",
+  "label": "stealth"
+ },
+ {
+  "tag": "roguelike",
+  "category": "mechanic",
+  "label": "roguelike"
+ },
+ {
+  "tag": "metroidvania",
+  "category": "mechanic",
+  "label": "metroidvania"
+ },
+ {
+  "tag": "souls-like",
+  "category": "mechanic",
+  "label": "souls like"
+ },
+ {
+  "tag": "hack-and-slash",
+  "category": "mechanic",
+  "label": "hack and slash"
+ },
+ {
+  "tag": "procedural-generation",
+  "category": "mechanic",
+  "label": "procedural generation"
+ },
+ {
+  "tag": "permadeath",
+  "category": "mechanic",
+  "label": "permadeath"
+ },
+ {
+  "tag": "puzzle-solving",
+  "category": "mechanic",
+  "label": "puzzle solving"
+ },
+ {
+  "tag": "physics",
+  "category": "mechanic",
+  "label": "physics"
+ },
+ {
+  "tag": "traversal",
+  "category": "mechanic",
+  "label": "traversal"
+ },
+ {
+  "tag": "parkour",
+  "category": "mechanic",
+  "label": "parkour"
+ },
+ {
+  "tag": "sandbox",
+  "category": "mechanic",
+  "label": "sandbox"
+ },
+ {
+  "tag": "management",
+  "category": "mechanic",
+  "label": "management"
+ },
+ {
+  "tag": "city-building",
+  "category": "mechanic",
+  "label": "city building"
+ },
+ {
+  "tag": "farming",
+  "category": "mechanic",
+  "label": "farming"
+ },
+ {
+  "tag": "automation",
+  "category": "mechanic",
+  "label": "automation"
+ },
+ {
+  "tag": "deck-building",
+  "category": "mechanic",
+  "label": "deck building"
+ },
+ {
+  "tag": "boss-fights",
+  "category": "mechanic",
+  "label": "boss fights"
+ },
+ {
+  "tag": "loot",
+  "category": "mechanic",
+  "label": "loot"
+ },
+ {
+  "tag": "party-based",
+  "category": "mechanic",
+  "label": "party based"
+ },
+ {
+  "tag": "time-manipulation",
+  "category": "mechanic",
+  "label": "time manipulation"
+ },
+ {
+  "tag": "deduction",
+  "category": "mechanic",
+  "label": "deduction"
+ },
+ {
+  "tag": "social-sim",
+  "category": "mechanic",
+  "label": "social sim"
+ },
+ {
+  "tag": "immersive-sim",
+  "category": "mechanic",
+  "label": "immersive sim"
+ },
+ {
+  "tag": "collectathon",
+  "category": "mechanic",
+  "label": "collectathon"
+ },
+ {
+  "tag": "precision-platforming",
+  "category": "mechanic",
+  "label": "precision platforming"
+ },
+ {
+  "tag": "run-and-gun",
+  "category": "mechanic",
+  "label": "run and gun"
+ },
+ {
+  "tag": "battle-royale",
+  "category": "mechanic",
+  "label": "battle royale"
+ },
+ {
+  "tag": "hero-shooter",
+  "category": "mechanic",
+  "label": "hero shooter"
+ },
+ {
+  "tag": "looter-shooter",
+  "category": "mechanic",
+  "label": "looter shooter"
+ },
+ {
+  "tag": "cover-shooter",
+  "category": "mechanic",
+  "label": "cover shooter"
+ },
+ {
+  "tag": "survival",
+  "category": "mechanic",
+  "label": "survival"
+ },
+ {
+  "tag": "4x",
+  "category": "mechanic",
+  "label": "4x"
+ },
+ {
+  "tag": "grand-strategy",
+  "category": "mechanic",
+  "label": "grand strategy"
+ },
+ {
+  "tag": "real-time-strategy",
+  "category": "mechanic",
+  "label": "real time strategy"
+ },
+ {
+  "tag": "driving",
+  "category": "mechanic",
+  "label": "driving"
+ },
+ {
+  "tag": "sim-racing",
+  "category": "mechanic",
+  "label": "sim racing"
+ },
+ {
+  "tag": "rally",
+  "category": "mechanic",
+  "label": "rally"
+ },
+ {
+  "tag": "arcade",
+  "category": "mechanic",
+  "label": "arcade"
+ },
+ {
+  "tag": "flight",
+  "category": "mechanic",
+  "label": "flight"
+ },
+ {
+  "tag": "colony-sim",
+  "category": "mechanic",
+  "label": "colony sim"
+ },
+ {
+  "tag": "life-sim",
+  "category": "mechanic",
+  "label": "life sim"
+ },
+ {
+  "tag": "creature-collecting",
+  "category": "mechanic",
+  "label": "creature collecting"
+ },
+ {
+  "tag": "fighting",
+  "category": "mechanic",
+  "label": "fighting"
+ },
+ {
+  "tag": "platform-fighter",
+  "category": "mechanic",
+  "label": "platform fighter"
+ },
+ {
+  "tag": "hunting",
+  "category": "mechanic",
+  "label": "hunting"
+ },
+ {
+  "tag": "climbing",
+  "category": "mechanic",
+  "label": "climbing"
+ },
+ {
+  "tag": "time-loop",
+  "category": "mechanic",
+  "label": "time loop"
+ },
+ {
+  "tag": "destruction",
+  "category": "mechanic",
+  "label": "destruction"
+ },
+ {
+  "tag": "police-chase",
+  "category": "mechanic",
+  "label": "police chase"
+ },
+ {
+  "tag": "mech",
+  "category": "mechanic",
+  "label": "mech"
+ },
+ {
+  "tag": "customization",
+  "category": "mechanic",
+  "label": "customization"
+ },
+ {
+  "tag": "survival-horror",
+  "category": "mechanic",
+  "label": "survival horror"
+ },
+ {
+  "tag": "psychological-horror",
+  "category": "mechanic",
+  "label": "psychological horror"
+ },
+ {
+  "tag": "point-and-click",
+  "category": "mechanic",
+  "label": "point and click"
+ },
+ {
+  "tag": "action-rpg",
+  "category": "mechanic",
+  "label": "action rpg"
+ },
+ {
+  "tag": "kart",
+  "category": "mechanic",
+  "label": "kart"
+ },
+ {
+  "tag": "sports",
+  "category": "mechanic",
+  "label": "sports"
+ },
+ {
+  "tag": "hero-units",
+  "category": "mechanic",
+  "label": "hero units"
+ },
+ {
+  "tag": "theme-park",
+  "category": "mechanic",
+  "label": "theme park"
+ },
+ {
+  "tag": "trading",
+  "category": "mechanic",
+  "label": "trading"
+ },
+ {
+  "tag": "illusion",
+  "category": "mechanic",
+  "label": "illusion"
+ },
+ {
+  "tag": "logic",
+  "category": "mechanic",
+  "label": "logic"
+ },
+ {
+  "tag": "vr",
+  "category": "mechanic",
+  "label": "vr"
+ },
+ {
+  "tag": "melee-combat",
+  "category": "combat",
+  "label": "melee combat"
+ },
+ {
+  "tag": "ranged-combat",
+  "category": "combat",
+  "label": "ranged combat"
+ },
+ {
+  "tag": "turn-based",
+  "category": "combat",
+  "label": "turn based"
+ },
+ {
+  "tag": "tactical",
+  "category": "combat",
+  "label": "tactical"
+ },
+ {
+  "tag": "real-time-combat",
+  "category": "combat",
+  "label": "real time combat"
+ },
+ {
+  "tag": "defenseless",
+  "category": "combat",
+  "label": "defenseless"
+ },
+ {
+  "tag": "bullet-hell",
+  "category": "combat",
+  "label": "bullet hell"
+ },
+ {
+  "tag": "sci-fi",
+  "category": "setting",
+  "label": "sci fi"
+ },
+ {
+  "tag": "fantasy",
+  "category": "setting",
+  "label": "fantasy"
+ },
+ {
+  "tag": "dark-fantasy",
+  "category": "setting",
+  "label": "dark fantasy"
+ },
+ {
+  "tag": "post-apocalyptic",
+  "category": "setting",
+  "label": "post apocalyptic"
+ },
+ {
+  "tag": "historical",
+  "category": "setting",
+  "label": "historical"
+ },
+ {
+  "tag": "medieval",
+  "category": "setting",
+  "label": "medieval"
+ },
+ {
+  "tag": "cyberpunk",
+  "category": "setting",
+  "label": "cyberpunk"
+ },
+ {
+  "tag": "gothic",
+  "category": "setting",
+  "label": "gothic"
+ },
+ {
+  "tag": "modern",
+  "category": "setting",
+  "label": "modern"
+ },
+ {
+  "tag": "western",
+  "category": "setting",
+  "label": "western"
+ },
+ {
+  "tag": "mythology",
+  "category": "setting",
+  "label": "mythology"
+ },
+ {
+  "tag": "supernatural",
+  "category": "setting",
+  "label": "supernatural"
+ },
+ {
+  "tag": "space",
+  "category": "setting",
+  "label": "space"
+ },
+ {
+  "tag": "military",
+  "category": "setting",
+  "label": "military"
+ },
+ {
+  "tag": "superhero",
+  "category": "setting",
+  "label": "superhero"
+ },
+ {
+  "tag": "steampunk",
+  "category": "setting",
+  "label": "steampunk"
+ },
+ {
+  "tag": "dystopian",
+  "category": "setting",
+  "label": "dystopian"
+ },
+ {
+  "tag": "anime",
+  "category": "setting",
+  "label": "anime"
+ },
+ {
+  "tag": "zombies",
+  "category": "setting",
+  "label": "zombies"
+ },
+ {
+  "tag": "wilderness",
+  "category": "setting",
+  "label": "wilderness"
+ },
+ {
+  "tag": "underwater",
+  "category": "setting",
+  "label": "underwater"
+ },
+ {
+  "tag": "crime",
+  "category": "setting",
+  "label": "crime"
+ },
+ {
+  "tag": "ninja",
+  "category": "setting",
+  "label": "ninja"
+ },
+ {
+  "tag": "alt-history",
+  "category": "setting",
+  "label": "alt history"
+ },
+ {
+  "tag": "demons",
+  "category": "setting",
+  "label": "demons"
+ },
+ {
+  "tag": "paranormal",
+  "category": "setting",
+  "label": "paranormal"
+ },
+ {
+  "tag": "pirates",
+  "category": "setting",
+  "label": "pirates"
+ },
+ {
+  "tag": "spy",
+  "category": "setting",
+  "label": "spy"
+ },
+ {
+  "tag": "story-rich",
+  "category": "narrative",
+  "label": "story rich"
+ },
+ {
+  "tag": "choices-matter",
+  "category": "narrative",
+  "label": "choices matter"
+ },
+ {
+  "tag": "dialogue-heavy",
+  "category": "narrative",
+  "label": "dialogue heavy"
+ },
+ {
+  "tag": "episodic",
+  "category": "narrative",
+  "label": "episodic"
+ },
+ {
+  "tag": "mystery",
+  "category": "narrative",
+  "label": "mystery"
+ },
+ {
+  "tag": "branching",
+  "category": "narrative",
+  "label": "branching"
+ },
+ {
+  "tag": "walking-simulator",
+  "category": "narrative",
+  "label": "walking simulator"
+ },
+ {
+  "tag": "moral-choices",
+  "category": "narrative",
+  "label": "moral choices"
+ },
+ {
+  "tag": "multiple-endings",
+  "category": "narrative",
+  "label": "multiple endings"
+ },
+ {
+  "tag": "wordless",
+  "category": "narrative",
+  "label": "wordless"
+ },
+ {
+  "tag": "political",
+  "category": "narrative",
+  "label": "political"
+ },
+ {
+  "tag": "detective",
+  "category": "narrative",
+  "label": "detective"
+ },
+ {
+  "tag": "anthology",
+  "category": "narrative",
+  "label": "anthology"
+ },
+ {
+  "tag": "thriller",
+  "category": "narrative",
+  "label": "thriller"
+ },
+ {
+  "tag": "first-person",
+  "category": "perspective",
+  "label": "first person"
+ },
+ {
+  "tag": "third-person",
+  "category": "perspective",
+  "label": "third person"
+ },
+ {
+  "tag": "top-down",
+  "category": "perspective",
+  "label": "top down"
+ },
+ {
+  "tag": "isometric",
+  "category": "perspective",
+  "label": "isometric"
+ },
+ {
+  "tag": "2d",
+  "category": "perspective",
+  "label": "2d"
+ },
+ {
+  "tag": "2.5d",
+  "category": "perspective",
+  "label": "2.5d"
+ },
+ {
+  "tag": "side-scrolling",
+  "category": "perspective",
+  "label": "side scrolling"
+ },
+ {
+  "tag": "co-op",
+  "category": "mode",
+  "label": "co op"
+ },
+ {
+  "tag": "multiplayer",
+  "category": "mode",
+  "label": "multiplayer"
+ },
+ {
+  "tag": "competitive",
+  "category": "mode",
+  "label": "competitive"
+ },
+ {
+  "tag": "team-based",
+  "category": "mode",
+  "label": "team based"
+ },
+ {
+  "tag": "party",
+  "category": "mode",
+  "label": "party"
+ },
+ {
+  "tag": "atmospheric",
+  "category": "aesthetic",
+  "label": "atmospheric"
+ },
+ {
+  "tag": "pixel-art",
+  "category": "aesthetic",
+  "label": "pixel art"
+ },
+ {
+  "tag": "hand-drawn",
+  "category": "aesthetic",
+  "label": "hand drawn"
+ },
+ {
+  "tag": "minimalist",
+  "category": "aesthetic",
+  "label": "minimalist"
+ },
+ {
+  "tag": "cozy",
+  "category": "aesthetic",
+  "label": "cozy"
+ },
+ {
+  "tag": "stylish",
+  "category": "aesthetic",
+  "label": "stylish"
+ },
+ {
+  "tag": "retro",
+  "category": "aesthetic",
+  "label": "retro"
+ },
+ {
+  "tag": "classic",
+  "category": "aesthetic",
+  "label": "classic"
+ },
+ {
+  "tag": "comedy",
+  "category": "aesthetic",
+  "label": "comedy"
+ },
+ {
+  "tag": "realistic",
+  "category": "aesthetic",
+  "label": "realistic"
+ },
+ {
+  "tag": "cinematic",
+  "category": "aesthetic",
+  "label": "cinematic"
+ },
+ {
+  "tag": "surreal",
+  "category": "aesthetic",
+  "label": "surreal"
+ }
+]

@@ -1,0 +1,7986 @@
+[
+ {
+  "id": "the-legend-of-zelda-breath-of-the-wild",
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Nintendo EPD"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "climbing",
+   "crafting",
+   "exploration",
+   "fantasy",
+   "open-world",
+   "physics",
+   "third-person"
+  ],
+  "franchise": "The Legend of Zelda",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-legend-of-zelda-tears-of-the-kingdom",
+  "title": "The Legend of Zelda: Tears of the Kingdom",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Nintendo EPD"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "building",
+   "climbing",
+   "crafting",
+   "exploration",
+   "fantasy",
+   "open-world",
+   "physics",
+   "third-person"
+  ],
+  "franchise": "The Legend of Zelda",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "red-dead-redemption-2",
+  "title": "Red Dead Redemption 2",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Rockstar Games"
+  ],
+  "publisher": "Rockstar Games",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "historical",
+   "hunting",
+   "open-world",
+   "realistic",
+   "story-rich",
+   "third-person",
+   "western"
+  ],
+  "franchise": "Red Dead",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "grand-theft-auto-v",
+  "title": "Grand Theft Auto V",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Rockstar North"
+  ],
+  "publisher": "Rockstar Games",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "crime",
+   "driving",
+   "modern",
+   "multiplayer",
+   "open-world",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Grand Theft Auto",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-witcher-3-wild-hunt",
+  "title": "The Witcher 3: Wild Hunt",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "CD Projekt Red"
+  ],
+  "publisher": "CD Projekt",
+  "genres": [
+   "open-world",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "choices-matter",
+   "fantasy",
+   "melee-combat",
+   "open-world",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "The Witcher",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-elder-scrolls-v-skyrim",
+  "title": "The Elder Scrolls V: Skyrim",
+  "year": 2011,
+  "status": "released",
+  "developers": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": "Bethesda Softworks",
+  "genres": [
+   "open-world",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "choices-matter",
+   "crafting",
+   "exploration",
+   "fantasy",
+   "first-person",
+   "melee-combat",
+   "open-world"
+  ],
+  "franchise": "The Elder Scrolls",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "fallout-4",
+  "title": "Fallout 4",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": "Bethesda Softworks",
+  "genres": [
+   "open-world",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "base-building",
+   "crafting",
+   "first-person",
+   "open-world",
+   "post-apocalyptic",
+   "ranged-combat",
+   "sci-fi"
+  ],
+  "franchise": "Fallout",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "fallout-new-vegas",
+  "title": "Fallout: New Vegas",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "Obsidian Entertainment"
+  ],
+  "publisher": "Bethesda Softworks",
+  "genres": [
+   "rpg",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "dialogue-heavy",
+   "first-person",
+   "open-world",
+   "post-apocalyptic",
+   "ranged-combat",
+   "story-rich"
+  ],
+  "franchise": "Fallout",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "cyberpunk-2077",
+  "title": "Cyberpunk 2077",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "CD Projekt Red"
+  ],
+  "publisher": "CD Projekt",
+  "genres": [
+   "open-world",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "cyberpunk",
+   "first-person",
+   "open-world",
+   "ranged-combat",
+   "sci-fi",
+   "story-rich"
+  ],
+  "franchise": "Cyberpunk",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "elden-ring",
+  "title": "Elden Ring",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "FromSoftware"
+  ],
+  "publisher": "Bandai Namco Entertainment",
+  "genres": [
+   "open-world",
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "dark-fantasy",
+   "exploration",
+   "fantasy",
+   "melee-combat",
+   "open-world",
+   "souls-like",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "horizon-zero-dawn",
+  "title": "Horizon Zero Dawn",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Guerrilla Games"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "crafting",
+   "exploration",
+   "open-world",
+   "post-apocalyptic",
+   "ranged-combat",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Horizon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "assassins-creed-odyssey",
+  "title": "Assassin's Creed Odyssey",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Ubisoft Quebec"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "open-world",
+   "rpg",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "exploration",
+   "historical",
+   "melee-combat",
+   "open-world",
+   "third-person"
+  ],
+  "franchise": "Assassin's Creed",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "assassins-creed-ii",
+  "title": "Assassin's Creed II",
+  "year": 2009,
+  "status": "released",
+  "developers": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "action",
+   "stealth",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "historical",
+   "melee-combat",
+   "open-world",
+   "parkour",
+   "stealth",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Assassin's Creed",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "ghost-of-tsushima",
+  "title": "Ghost of Tsushima",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Sucker Punch Productions"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "cinematic",
+   "exploration",
+   "historical",
+   "melee-combat",
+   "open-world",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": "Ghost",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "marvels-spider-man",
+  "title": "Marvel's Spider-Man",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Insomniac Games"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "melee-combat",
+   "modern",
+   "open-world",
+   "story-rich",
+   "superhero",
+   "third-person",
+   "traversal"
+  ],
+  "franchise": "Marvel's Spider-Man",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "far-cry-3",
+  "title": "Far Cry 3",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "open-world",
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "crafting",
+   "first-person",
+   "hunting",
+   "open-world",
+   "ranged-combat",
+   "stealth",
+   "story-rich"
+  ],
+  "franchise": "Far Cry",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "no-mans-sky",
+  "title": "No Man's Sky",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Hello Games"
+  ],
+  "publisher": "Hello Games",
+  "genres": [
+   "open-world",
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "crafting",
+   "exploration",
+   "first-person",
+   "multiplayer",
+   "open-world",
+   "procedural-generation",
+   "sci-fi",
+   "space"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "death-stranding",
+  "title": "Death Stranding",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Kojima Productions"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "exploration",
+   "open-world",
+   "post-apocalyptic",
+   "sci-fi",
+   "story-rich",
+   "third-person",
+   "traversal"
+  ],
+  "franchise": "Death Stranding",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "genshin-impact",
+  "title": "Genshin Impact",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "miHoYo"
+  ],
+  "publisher": "miHoYo",
+  "genres": [
+   "open-world",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "mobile"
+  ],
+  "tags": [
+   "anime",
+   "co-op",
+   "exploration",
+   "fantasy",
+   "open-world",
+   "party-based",
+   "real-time-combat",
+   "third-person"
+  ],
+  "franchise": "Genshin Impact",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "outer-wilds",
+  "title": "Outer Wilds",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Mobius Digital"
+  ],
+  "publisher": "Annapurna Interactive",
+  "genres": [
+   "narrative",
+   "open-world",
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "exploration",
+   "first-person",
+   "mystery",
+   "puzzle-solving",
+   "sci-fi",
+   "space",
+   "story-rich",
+   "time-loop"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "disco-elysium",
+  "title": "Disco Elysium",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "ZA/UM"
+  ],
+  "publisher": "ZA/UM",
+  "genres": [
+   "narrative",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "choices-matter",
+   "detective",
+   "dialogue-heavy",
+   "isometric",
+   "multiple-endings",
+   "mystery",
+   "political",
+   "story-rich"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "life-is-strange",
+  "title": "Life Is Strange",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Dontnod Entertainment"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "mobile"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "episodic",
+   "mystery",
+   "story-rich",
+   "third-person",
+   "time-manipulation"
+  ],
+  "franchise": "Life Is Strange",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-last-of-us",
+  "title": "The Last of Us",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Naughty Dog"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "narrative",
+   "survival",
+   "stealth"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "cinematic",
+   "crafting",
+   "post-apocalyptic",
+   "ranged-combat",
+   "stealth",
+   "story-rich",
+   "third-person",
+   "zombies"
+  ],
+  "franchise": "The Last of Us",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-last-of-us-part-ii",
+  "title": "The Last of Us Part II",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Naughty Dog"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "narrative",
+   "survival",
+   "stealth"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "cinematic",
+   "crafting",
+   "post-apocalyptic",
+   "ranged-combat",
+   "stealth",
+   "story-rich",
+   "third-person",
+   "zombies"
+  ],
+  "franchise": "The Last of Us",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "god-of-war",
+  "title": "God of War",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Santa Monica Studio"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "boss-fights",
+   "cinematic",
+   "exploration",
+   "melee-combat",
+   "mythology",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "God of War",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "firewatch",
+  "title": "Firewatch",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Campo Santo"
+  ],
+  "publisher": "Panic",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "dialogue-heavy",
+   "exploration",
+   "first-person",
+   "mystery",
+   "story-rich",
+   "walking-simulator",
+   "wilderness"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "what-remains-of-edith-finch",
+  "title": "What Remains of Edith Finch",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Giant Sparrow"
+  ],
+  "publisher": "Annapurna Interactive",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "anthology",
+   "atmospheric",
+   "exploration",
+   "first-person",
+   "story-rich",
+   "walking-simulator"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "gone-home",
+  "title": "Gone Home",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "The Fullbright Company"
+  ],
+  "publisher": "The Fullbright Company",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "exploration",
+   "first-person",
+   "mystery",
+   "story-rich",
+   "walking-simulator"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-walking-dead-telltale",
+  "title": "The Walking Dead (Telltale)",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "Telltale Games"
+  ],
+  "publisher": "Telltale Games",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "episodic",
+   "moral-choices",
+   "point-and-click",
+   "post-apocalyptic",
+   "story-rich",
+   "zombies"
+  ],
+  "franchise": "The Walking Dead",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "detroit-become-human",
+  "title": "Detroit: Become Human",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Quantic Dream"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "cinematic",
+   "dystopian",
+   "multiple-endings",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "return-of-the-obra-dinn",
+  "title": "Return of the Obra Dinn",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Lucas Pope"
+  ],
+  "publisher": "3909 LLC",
+  "genres": [
+   "narrative",
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "deduction",
+   "detective",
+   "first-person",
+   "historical",
+   "mystery",
+   "puzzle-solving",
+   "story-rich"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "kentucky-route-zero",
+  "title": "Kentucky Route Zero",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Cardboard Computer"
+  ],
+  "publisher": "Annapurna Interactive",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "atmospheric",
+   "dialogue-heavy",
+   "point-and-click",
+   "story-rich",
+   "surreal"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "oxenfree",
+  "title": "Oxenfree",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Night School Studio"
+  ],
+  "publisher": "Night School Studio",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "branching",
+   "choices-matter",
+   "dialogue-heavy",
+   "mystery",
+   "story-rich",
+   "supernatural"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "journey",
+  "title": "Journey",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "thatgamecompany"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "atmospheric",
+   "co-op",
+   "exploration",
+   "minimalist",
+   "third-person",
+   "wordless"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "uncharted-4-a-thiefs-end",
+  "title": "Uncharted 4: A Thief's End",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Naughty Dog"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "modern",
+   "ranged-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Uncharted",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mass-effect-2",
+  "title": "Mass Effect 2",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "BioWare"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "dialogue-heavy",
+   "party-based",
+   "ranged-combat",
+   "sci-fi",
+   "space",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Mass Effect",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "baldurs-gate-3",
+  "title": "Baldur's Gate 3",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Larian Studios"
+  ],
+  "publisher": "Larian Studios",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "co-op",
+   "dialogue-heavy",
+   "fantasy",
+   "party-based",
+   "story-rich",
+   "turn-based"
+  ],
+  "franchise": "Baldur's Gate",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "divinity-original-sin-2",
+  "title": "Divinity: Original Sin 2",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Larian Studios"
+  ],
+  "publisher": "Larian Studios",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "choices-matter",
+   "co-op",
+   "fantasy",
+   "isometric",
+   "party-based",
+   "story-rich",
+   "turn-based"
+  ],
+  "franchise": "Divinity",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "planescape-torment",
+  "title": "Planescape: Torment",
+  "year": 1999,
+  "status": "released",
+  "developers": [
+   "Black Isle Studios"
+  ],
+  "publisher": "Interplay Entertainment",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "choices-matter",
+   "classic",
+   "dialogue-heavy",
+   "fantasy",
+   "isometric",
+   "party-based",
+   "story-rich"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "persona-5-royal",
+  "title": "Persona 5 Royal",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Atlus"
+  ],
+  "publisher": "Atlus",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "playstation",
+   "pc",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "anime",
+   "modern",
+   "party-based",
+   "social-sim",
+   "story-rich",
+   "stylish",
+   "supernatural",
+   "turn-based"
+  ],
+  "franchise": "Persona",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "final-fantasy-vii",
+  "title": "Final Fantasy VII",
+  "year": 1997,
+  "status": "released",
+  "developers": [
+   "Square"
+  ],
+  "publisher": "Square",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "playstation",
+   "pc",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "classic",
+   "fantasy",
+   "party-based",
+   "sci-fi",
+   "story-rich",
+   "turn-based"
+  ],
+  "franchise": "Final Fantasy",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "chrono-trigger",
+  "title": "Chrono Trigger",
+  "year": 1995,
+  "status": "released",
+  "developers": [
+   "Square"
+  ],
+  "publisher": "Square",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "nintendo",
+   "playstation",
+   "pc",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "classic",
+   "fantasy",
+   "multiple-endings",
+   "party-based",
+   "sci-fi",
+   "story-rich",
+   "time-manipulation",
+   "turn-based"
+  ],
+  "franchise": "Chrono",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "pokemon-red-and-blue",
+  "title": "Pokémon Red and Blue",
+  "year": 1996,
+  "status": "released",
+  "developers": [
+   "Game Freak"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "classic",
+   "creature-collecting",
+   "exploration",
+   "fantasy",
+   "multiplayer",
+   "turn-based"
+  ],
+  "franchise": "Pokémon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dragon-quest-xi",
+  "title": "Dragon Quest XI",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Square Enix"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "exploration",
+   "fantasy",
+   "party-based",
+   "story-rich",
+   "third-person",
+   "turn-based"
+  ],
+  "franchise": "Dragon Quest",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "undertale",
+  "title": "Undertale",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Toby Fox"
+  ],
+  "publisher": "Toby Fox",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "bullet-hell",
+   "choices-matter",
+   "comedy",
+   "multiple-endings",
+   "pixel-art",
+   "story-rich",
+   "turn-based"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "darkest-dungeon",
+  "title": "Darkest Dungeon",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Red Hook Studios"
+  ],
+  "publisher": "Red Hook Studios",
+  "genres": [
+   "rpg",
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "dark-fantasy",
+   "gothic",
+   "party-based",
+   "permadeath",
+   "roguelike",
+   "turn-based"
+  ],
+  "franchise": "Darkest Dungeon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dragon-age-origins",
+  "title": "Dragon Age: Origins",
+  "year": 2009,
+  "status": "released",
+  "developers": [
+   "BioWare"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "dialogue-heavy",
+   "fantasy",
+   "party-based",
+   "story-rich",
+   "tactical",
+   "third-person"
+  ],
+  "franchise": "Dragon Age",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "diablo-ii",
+  "title": "Diablo II",
+  "year": 2000,
+  "status": "released",
+  "developers": [
+   "Blizzard North"
+  ],
+  "publisher": "Blizzard Entertainment",
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "action-rpg",
+   "classic",
+   "co-op",
+   "dark-fantasy",
+   "isometric",
+   "loot",
+   "multiplayer"
+  ],
+  "franchise": "Diablo",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "path-of-exile",
+  "title": "Path of Exile",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Grinding Gear Games"
+  ],
+  "publisher": "Grinding Gear Games",
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "action-rpg",
+   "dark-fantasy",
+   "isometric",
+   "loot",
+   "multiplayer",
+   "real-time-combat"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "xenoblade-chronicles-3",
+  "title": "Xenoblade Chronicles 3",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "Monolith Soft"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "rpg",
+   "open-world"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "exploration",
+   "fantasy",
+   "open-world",
+   "party-based",
+   "real-time-combat",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Xenoblade Chronicles",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "star-wars-knights-of-the-old-republic",
+  "title": "Star Wars: Knights of the Old Republic",
+  "year": 2003,
+  "status": "released",
+  "developers": [
+   "BioWare"
+  ],
+  "publisher": "LucasArts",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "choices-matter",
+   "dialogue-heavy",
+   "moral-choices",
+   "party-based",
+   "sci-fi",
+   "space",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Star Wars",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "fire-emblem-three-houses",
+  "title": "Fire Emblem: Three Houses",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Intelligent Systems",
+   "Koei Tecmo"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "fantasy",
+   "party-based",
+   "permadeath",
+   "social-sim",
+   "story-rich",
+   "tactical",
+   "third-person",
+   "turn-based"
+  ],
+  "franchise": "Fire Emblem",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "xcom-2",
+  "title": "XCOM 2",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Firaxis Games"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "alt-history",
+   "base-building",
+   "permadeath",
+   "sci-fi",
+   "tactical",
+   "third-person",
+   "turn-based"
+  ],
+  "franchise": "XCOM",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "sid-meiers-civilization-vi",
+  "title": "Sid Meier's Civilization VI",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Firaxis Games"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "4x",
+   "city-building",
+   "historical",
+   "management",
+   "top-down",
+   "turn-based"
+  ],
+  "franchise": "Civilization",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "starcraft-ii-wings-of-liberty",
+  "title": "StarCraft II: Wings of Liberty",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "Blizzard Entertainment"
+  ],
+  "publisher": "Blizzard Entertainment",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "base-building",
+   "competitive",
+   "multiplayer",
+   "real-time-strategy",
+   "sci-fi",
+   "space",
+   "top-down"
+  ],
+  "franchise": "StarCraft",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "age-of-empires-ii",
+  "title": "Age of Empires II",
+  "year": 1999,
+  "status": "released",
+  "developers": [
+   "Ensemble Studios"
+  ],
+  "publisher": "Microsoft",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "xbox"
+  ],
+  "tags": [
+   "city-building",
+   "classic",
+   "historical",
+   "medieval",
+   "multiplayer",
+   "real-time-strategy",
+   "top-down"
+  ],
+  "franchise": "Age of Empires",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "total-war-three-kingdoms",
+  "title": "Total War: Three Kingdoms",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Creative Assembly"
+  ],
+  "publisher": "Sega",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "grand-strategy",
+   "historical",
+   "real-time-strategy",
+   "tactical",
+   "top-down",
+   "turn-based"
+  ],
+  "franchise": "Total War",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "into-the-breach",
+  "title": "Into the Breach",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Subset Games"
+  ],
+  "publisher": "Subset Games",
+  "genres": [
+   "strategy",
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "mech",
+   "puzzle-solving",
+   "roguelike",
+   "sci-fi",
+   "tactical",
+   "top-down",
+   "turn-based"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "slay-the-spire",
+  "title": "Slay the Spire",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Mega Crit"
+  ],
+  "publisher": "Mega Crit",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "deck-building",
+   "fantasy",
+   "permadeath",
+   "roguelike",
+   "turn-based"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "frostpunk",
+  "title": "Frostpunk",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "11 bit studios"
+  ],
+  "publisher": "11 bit studios",
+  "genres": [
+   "strategy",
+   "survival",
+   "simulation"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "city-building",
+   "management",
+   "moral-choices",
+   "post-apocalyptic",
+   "steampunk",
+   "story-rich",
+   "survival",
+   "top-down"
+  ],
+  "franchise": "Frostpunk",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "crusader-kings-iii",
+  "title": "Crusader Kings III",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Paradox Development Studio"
+  ],
+  "publisher": "Paradox Interactive",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "grand-strategy",
+   "historical",
+   "medieval",
+   "sandbox",
+   "story-rich",
+   "top-down"
+  ],
+  "franchise": "Crusader Kings",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "stellaris",
+  "title": "Stellaris",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Paradox Development Studio"
+  ],
+  "publisher": "Paradox Interactive",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "4x",
+   "grand-strategy",
+   "sandbox",
+   "sci-fi",
+   "space",
+   "top-down"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "anno-1800",
+  "title": "Anno 1800",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Ubisoft Blue Byte"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "strategy",
+   "simulation"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "city-building",
+   "historical",
+   "management",
+   "sandbox",
+   "top-down",
+   "trading"
+  ],
+  "franchise": "Anno",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "command-and-conquer-red-alert-2",
+  "title": "Command & Conquer: Red Alert 2",
+  "year": 2000,
+  "status": "released",
+  "developers": [
+   "Westwood Pacific"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "alt-history",
+   "base-building",
+   "classic",
+   "comedy",
+   "military",
+   "multiplayer",
+   "real-time-strategy",
+   "top-down"
+  ],
+  "franchise": "Command & Conquer",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "warcraft-iii-reign-of-chaos",
+  "title": "Warcraft III: Reign of Chaos",
+  "year": 2002,
+  "status": "released",
+  "developers": [
+   "Blizzard Entertainment"
+  ],
+  "publisher": "Blizzard Entertainment",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "base-building",
+   "fantasy",
+   "hero-units",
+   "multiplayer",
+   "real-time-strategy",
+   "story-rich",
+   "top-down"
+  ],
+  "franchise": "Warcraft",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "heroes-of-might-and-magic-iii",
+  "title": "Heroes of Might and Magic III",
+  "year": 1999,
+  "status": "released",
+  "developers": [
+   "New World Computing"
+  ],
+  "publisher": "The 3DO Company",
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "4x",
+   "classic",
+   "fantasy",
+   "hero-units",
+   "top-down",
+   "turn-based"
+  ],
+  "franchise": "Heroes of Might and Magic",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "cities-skylines",
+  "title": "Cities: Skylines",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Colossal Order"
+  ],
+  "publisher": "Paradox Interactive",
+  "genres": [
+   "simulation",
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "city-building",
+   "management",
+   "sandbox",
+   "top-down"
+  ],
+  "franchise": "Cities: Skylines",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "rimworld",
+  "title": "RimWorld",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Ludeon Studios"
+  ],
+  "publisher": "Ludeon Studios",
+  "genres": [
+   "simulation",
+   "strategy",
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "base-building",
+   "colony-sim",
+   "management",
+   "procedural-generation",
+   "sandbox",
+   "sci-fi",
+   "survival",
+   "top-down"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "factorio",
+  "title": "Factorio",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Wube Software"
+  ],
+  "publisher": "Wube Software",
+  "genres": [
+   "simulation",
+   "strategy"
+  ],
+  "platforms": [
+   "pc",
+   "nintendo"
+  ],
+  "tags": [
+   "automation",
+   "base-building",
+   "co-op",
+   "management",
+   "multiplayer",
+   "sandbox",
+   "top-down"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "stardew-valley",
+  "title": "Stardew Valley",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "ConcernedApe"
+  ],
+  "publisher": "ConcernedApe",
+  "genres": [
+   "simulation",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "co-op",
+   "cozy",
+   "crafting",
+   "farming",
+   "pixel-art",
+   "social-sim",
+   "top-down"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "animal-crossing-new-horizons",
+  "title": "Animal Crossing: New Horizons",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Nintendo EPD"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "simulation"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "cozy",
+   "crafting",
+   "customization",
+   "life-sim",
+   "multiplayer",
+   "sandbox",
+   "social-sim"
+  ],
+  "franchise": "Animal Crossing",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-sims-4",
+  "title": "The Sims 4",
+  "year": 2014,
+  "status": "released",
+  "developers": [
+   "Maxis"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "simulation"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "building",
+   "customization",
+   "life-sim",
+   "modern",
+   "sandbox",
+   "social-sim",
+   "third-person"
+  ],
+  "franchise": "The Sims",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "euro-truck-simulator-2",
+  "title": "Euro Truck Simulator 2",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "SCS Software"
+  ],
+  "publisher": "SCS Software",
+  "genres": [
+   "simulation"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "driving",
+   "management",
+   "open-world",
+   "realistic",
+   "sandbox",
+   "trading"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "microsoft-flight-simulator",
+  "title": "Microsoft Flight Simulator",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Asobo Studio"
+  ],
+  "publisher": "Xbox Game Studios",
+  "genres": [
+   "simulation"
+  ],
+  "platforms": [
+   "pc",
+   "xbox"
+  ],
+  "tags": [
+   "flight",
+   "modern",
+   "open-world",
+   "realistic",
+   "sandbox"
+  ],
+  "franchise": "Microsoft Flight Simulator",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "kerbal-space-program",
+  "title": "Kerbal Space Program",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Squad"
+  ],
+  "publisher": "Private Division",
+  "genres": [
+   "simulation",
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "building",
+   "management",
+   "physics",
+   "puzzle-solving",
+   "sandbox",
+   "sci-fi",
+   "space"
+  ],
+  "franchise": "Kerbal Space Program",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "planet-coaster",
+  "title": "Planet Coaster",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Frontier Developments"
+  ],
+  "publisher": "Frontier Developments",
+  "genres": [
+   "simulation"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "building",
+   "customization",
+   "management",
+   "sandbox",
+   "theme-park"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "two-point-hospital",
+  "title": "Two Point Hospital",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Two Point Studios"
+  ],
+  "publisher": "Sega",
+  "genres": [
+   "simulation"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "building",
+   "comedy",
+   "management",
+   "top-down"
+  ],
+  "franchise": "Two Point",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "forza-horizon-5",
+  "title": "Forza Horizon 5",
+  "year": 2021,
+  "status": "released",
+  "developers": [
+   "Playground Games"
+  ],
+  "publisher": "Xbox Game Studios",
+  "genres": [
+   "racing",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "playstation"
+  ],
+  "tags": [
+   "arcade",
+   "customization",
+   "driving",
+   "exploration",
+   "modern",
+   "multiplayer",
+   "open-world"
+  ],
+  "franchise": "Forza Horizon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "gran-turismo-7",
+  "title": "Gran Turismo 7",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "Polyphony Digital"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "customization",
+   "driving",
+   "multiplayer",
+   "realistic",
+   "sim-racing"
+  ],
+  "franchise": "Gran Turismo",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mario-kart-8-deluxe",
+  "title": "Mario Kart 8 Deluxe",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Nintendo EPD"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "arcade",
+   "competitive",
+   "kart",
+   "multiplayer",
+   "party",
+   "stylish"
+  ],
+  "franchise": "Mario Kart",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "need-for-speed-most-wanted",
+  "title": "Need for Speed: Most Wanted",
+  "year": 2005,
+  "status": "released",
+  "developers": [
+   "EA Canada"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "arcade",
+   "crime",
+   "customization",
+   "driving",
+   "open-world",
+   "police-chase"
+  ],
+  "franchise": "Need for Speed",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "burnout-paradise",
+  "title": "Burnout Paradise",
+  "year": 2008,
+  "status": "released",
+  "developers": [
+   "Criterion Games"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "racing",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "arcade",
+   "destruction",
+   "driving",
+   "multiplayer",
+   "open-world"
+  ],
+  "franchise": "Burnout",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "assetto-corsa",
+  "title": "Assetto Corsa",
+  "year": 2014,
+  "status": "released",
+  "developers": [
+   "Kunos Simulazioni"
+  ],
+  "publisher": "Kunos Simulazioni",
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "customization",
+   "driving",
+   "multiplayer",
+   "realistic",
+   "sim-racing"
+  ],
+  "franchise": "Assetto Corsa",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "rocket-league",
+  "title": "Rocket League",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Psyonix"
+  ],
+  "publisher": "Psyonix",
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "arcade",
+   "competitive",
+   "driving",
+   "multiplayer",
+   "physics",
+   "sports",
+   "team-based"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dirt-rally-20",
+  "title": "DiRT Rally 2.0",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Codemasters"
+  ],
+  "publisher": "Codemasters",
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "driving",
+   "multiplayer",
+   "rally",
+   "realistic",
+   "sim-racing"
+  ],
+  "franchise": "DiRT",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "metal-gear-solid",
+  "title": "Metal Gear Solid",
+  "year": 1998,
+  "status": "released",
+  "developers": [
+   "Konami Computer Entertainment Japan"
+  ],
+  "publisher": "Konami",
+  "genres": [
+   "stealth",
+   "action"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "boss-fights",
+   "cinematic",
+   "classic",
+   "military",
+   "stealth",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Metal Gear",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "metal-gear-solid-v-the-phantom-pain",
+  "title": "Metal Gear Solid V: The Phantom Pain",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Kojima Productions"
+  ],
+  "publisher": "Konami",
+  "genres": [
+   "stealth",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "base-building",
+   "military",
+   "open-world",
+   "ranged-combat",
+   "stealth",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Metal Gear",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dishonored",
+  "title": "Dishonored",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "Arkane Studios"
+  ],
+  "publisher": "Bethesda Softworks",
+  "genres": [
+   "stealth",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "first-person",
+   "immersive-sim",
+   "melee-combat",
+   "moral-choices",
+   "stealth",
+   "steampunk",
+   "supernatural"
+  ],
+  "franchise": "Dishonored",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "thief-the-dark-project",
+  "title": "Thief: The Dark Project",
+  "year": 1998,
+  "status": "released",
+  "developers": [
+   "Looking Glass Studios"
+  ],
+  "publisher": "Eidos Interactive",
+  "genres": [
+   "stealth"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "classic",
+   "first-person",
+   "immersive-sim",
+   "medieval",
+   "stealth",
+   "steampunk"
+  ],
+  "franchise": "Thief",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "hitman-2016",
+  "title": "Hitman (2016)",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "IO Interactive"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "crime",
+   "modern",
+   "puzzle-solving",
+   "sandbox",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": "Hitman",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "deus-ex",
+  "title": "Deus Ex",
+  "year": 2000,
+  "status": "released",
+  "developers": [
+   "Ion Storm"
+  ],
+  "publisher": "Eidos Interactive",
+  "genres": [
+   "stealth",
+   "rpg",
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "choices-matter",
+   "cyberpunk",
+   "dystopian",
+   "first-person",
+   "immersive-sim",
+   "sci-fi",
+   "stealth",
+   "story-rich"
+  ],
+  "franchise": "Deus Ex",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "tom-clancys-splinter-cell-chaos-theory",
+  "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+  "year": 2005,
+  "status": "released",
+  "developers": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "stealth",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "military",
+   "modern",
+   "stealth",
+   "third-person",
+   "thriller"
+  ],
+  "franchise": "Splinter Cell",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "a-plague-tale-innocence",
+  "title": "A Plague Tale: Innocence",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Asobo Studio"
+  ],
+  "publisher": "Focus Home Interactive",
+  "genres": [
+   "stealth",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "cinematic",
+   "historical",
+   "medieval",
+   "puzzle-solving",
+   "stealth",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "A Plague Tale",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mark-of-the-ninja",
+  "title": "Mark of the Ninja",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "Klei Entertainment"
+  ],
+  "publisher": "Microsoft Studios",
+  "genres": [
+   "stealth",
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "ninja",
+   "puzzle-solving",
+   "side-scrolling",
+   "stealth",
+   "stylish"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "resident-evil-2-2019",
+  "title": "Resident Evil 2 (2019)",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "horror",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "modern",
+   "puzzle-solving",
+   "ranged-combat",
+   "survival-horror",
+   "third-person",
+   "zombies"
+  ],
+  "franchise": "Resident Evil",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "resident-evil-4-2023",
+  "title": "Resident Evil 4 (2023)",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "horror",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "modern",
+   "ranged-combat",
+   "survival-horror",
+   "third-person",
+   "zombies"
+  ],
+  "franchise": "Resident Evil",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "silent-hill-2",
+  "title": "Silent Hill 2",
+  "year": 2001,
+  "status": "released",
+  "developers": [
+   "Team Silent"
+  ],
+  "publisher": "Konami",
+  "genres": [
+   "horror"
+  ],
+  "platforms": [
+   "playstation",
+   "xbox",
+   "pc"
+  ],
+  "tags": [
+   "atmospheric",
+   "multiple-endings",
+   "psychological-horror",
+   "puzzle-solving",
+   "story-rich",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": "Silent Hill",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "alien-isolation",
+  "title": "Alien: Isolation",
+  "year": 2014,
+  "status": "released",
+  "developers": [
+   "Creative Assembly"
+  ],
+  "publisher": "Sega",
+  "genres": [
+   "horror",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "atmospheric",
+   "defenseless",
+   "first-person",
+   "sci-fi",
+   "space",
+   "stealth",
+   "survival-horror"
+  ],
+  "franchise": "Alien",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "amnesia-the-dark-descent",
+  "title": "Amnesia: The Dark Descent",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "Frictional Games"
+  ],
+  "publisher": "Frictional Games",
+  "genres": [
+   "horror"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "atmospheric",
+   "defenseless",
+   "first-person",
+   "gothic",
+   "psychological-horror",
+   "puzzle-solving"
+  ],
+  "franchise": "Amnesia",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "outlast",
+  "title": "Outlast",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Red Barrels"
+  ],
+  "publisher": "Red Barrels",
+  "genres": [
+   "horror"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "defenseless",
+   "first-person",
+   "modern",
+   "stealth",
+   "survival-horror"
+  ],
+  "franchise": "Outlast",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dead-space",
+  "title": "Dead Space",
+  "year": 2008,
+  "status": "released",
+  "developers": [
+   "Visceral Games"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "horror",
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "atmospheric",
+   "ranged-combat",
+   "sci-fi",
+   "space",
+   "survival-horror",
+   "third-person"
+  ],
+  "franchise": "Dead Space",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "five-nights-at-freddys",
+  "title": "Five Nights at Freddy's",
+  "year": 2014,
+  "status": "released",
+  "developers": [
+   "Scott Cawthon"
+  ],
+  "publisher": "Scott Cawthon",
+  "genres": [
+   "horror"
+  ],
+  "platforms": [
+   "pc",
+   "mobile",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "defenseless",
+   "management",
+   "modern",
+   "point-and-click",
+   "survival-horror"
+  ],
+  "franchise": "Five Nights at Freddy's",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "phasmophobia",
+  "title": "Phasmophobia",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Kinetic Games"
+  ],
+  "publisher": "Kinetic Games",
+  "genres": [
+   "horror"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "co-op",
+   "defenseless",
+   "first-person",
+   "modern",
+   "multiplayer",
+   "paranormal"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "little-nightmares",
+  "title": "Little Nightmares",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Tarsier Studios"
+  ],
+  "publisher": "Bandai Namco Entertainment",
+  "genres": [
+   "horror",
+   "puzzle",
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2.5d",
+   "atmospheric",
+   "defenseless",
+   "puzzle-solving",
+   "stealth",
+   "surreal"
+  ],
+  "franchise": "Little Nightmares",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "alan-wake-2",
+  "title": "Alan Wake 2",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Remedy Entertainment"
+  ],
+  "publisher": "Epic Games Publishing",
+  "genres": [
+   "horror",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "mystery",
+   "psychological-horror",
+   "story-rich",
+   "supernatural",
+   "survival-horror",
+   "third-person",
+   "thriller"
+  ],
+  "franchise": "Alan Wake",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "minecraft",
+  "title": "Minecraft",
+  "year": 2011,
+  "status": "released",
+  "developers": [
+   "Mojang Studios"
+  ],
+  "publisher": "Mojang Studios",
+  "genres": [
+   "survival",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "building",
+   "crafting",
+   "exploration",
+   "first-person",
+   "multiplayer",
+   "procedural-generation",
+   "sandbox",
+   "survival"
+  ],
+  "franchise": "Minecraft",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "terraria",
+  "title": "Terraria",
+  "year": 2011,
+  "status": "released",
+  "developers": [
+   "Re-Logic"
+  ],
+  "publisher": "Re-Logic",
+  "genres": [
+   "survival",
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "boss-fights",
+   "building",
+   "co-op",
+   "crafting",
+   "exploration",
+   "multiplayer",
+   "sandbox",
+   "survival"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "subnautica",
+  "title": "Subnautica",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Unknown Worlds Entertainment"
+  ],
+  "publisher": "Unknown Worlds Entertainment",
+  "genres": [
+   "survival",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "base-building",
+   "crafting",
+   "exploration",
+   "first-person",
+   "open-world",
+   "sci-fi",
+   "survival",
+   "underwater"
+  ],
+  "franchise": "Subnautica",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dont-starve",
+  "title": "Don't Starve",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Klei Entertainment"
+  ],
+  "publisher": "Klei Entertainment",
+  "genres": [
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "crafting",
+   "gothic",
+   "hand-drawn",
+   "permadeath",
+   "procedural-generation",
+   "survival",
+   "top-down"
+  ],
+  "franchise": "Don't Starve",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-long-dark",
+  "title": "The Long Dark",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Hinterland Studio"
+  ],
+  "publisher": "Hinterland Studio",
+  "genres": [
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "atmospheric",
+   "crafting",
+   "exploration",
+   "first-person",
+   "realistic",
+   "survival",
+   "wilderness"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "valheim",
+  "title": "Valheim",
+  "year": 2021,
+  "status": "released",
+  "developers": [
+   "Iron Gate Studio"
+  ],
+  "publisher": "Coffee Stain Publishing",
+  "genres": [
+   "survival",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "xbox"
+  ],
+  "tags": [
+   "base-building",
+   "co-op",
+   "crafting",
+   "melee-combat",
+   "mythology",
+   "open-world",
+   "procedural-generation",
+   "survival",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "rust",
+  "title": "Rust",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Facepunch Studios"
+  ],
+  "publisher": "Facepunch Studios",
+  "genres": [
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "base-building",
+   "crafting",
+   "first-person",
+   "multiplayer",
+   "open-world",
+   "ranged-combat",
+   "survival"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "project-zomboid",
+  "title": "Project Zomboid",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "The Indie Stone"
+  ],
+  "publisher": "The Indie Stone",
+  "genres": [
+   "survival"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "base-building",
+   "co-op",
+   "crafting",
+   "isometric",
+   "permadeath",
+   "post-apocalyptic",
+   "sandbox",
+   "survival",
+   "zombies"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "green-hell",
+  "title": "Green Hell",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Creepy Jar"
+  ],
+  "publisher": "Creepy Jar",
+  "genres": [
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "crafting",
+   "exploration",
+   "first-person",
+   "realistic",
+   "survival",
+   "wilderness"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dying-light",
+  "title": "Dying Light",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Techland"
+  ],
+  "publisher": "Warner Bros. Interactive Entertainment",
+  "genres": [
+   "survival",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "co-op",
+   "crafting",
+   "first-person",
+   "melee-combat",
+   "open-world",
+   "parkour",
+   "survival",
+   "zombies"
+  ],
+  "franchise": "Dying Light",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "devil-may-cry-5",
+  "title": "Devil May Cry 5",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "demons",
+   "hack-and-slash",
+   "melee-combat",
+   "stylish",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": "Devil May Cry",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "bayonetta",
+  "title": "Bayonetta",
+  "year": 2009,
+  "status": "released",
+  "developers": [
+   "PlatinumGames"
+  ],
+  "publisher": "Sega",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "playstation",
+   "xbox",
+   "pc",
+   "nintendo"
+  ],
+  "tags": [
+   "boss-fights",
+   "hack-and-slash",
+   "melee-combat",
+   "stylish",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": "Bayonetta",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dark-souls",
+  "title": "Dark Souls",
+  "year": 2011,
+  "status": "released",
+  "developers": [
+   "FromSoftware"
+  ],
+  "publisher": "Namco Bandai Games",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "atmospheric",
+   "boss-fights",
+   "dark-fantasy",
+   "exploration",
+   "fantasy",
+   "melee-combat",
+   "souls-like",
+   "third-person"
+  ],
+  "franchise": "Dark Souls",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "demons-souls",
+  "title": "Demon's Souls",
+  "year": 2009,
+  "status": "released",
+  "developers": [
+   "FromSoftware"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "atmospheric",
+   "boss-fights",
+   "dark-fantasy",
+   "fantasy",
+   "melee-combat",
+   "souls-like",
+   "third-person"
+  ],
+  "franchise": "Demon's Souls",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "bloodborne",
+  "title": "Bloodborne",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "FromSoftware"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "action",
+   "horror",
+   "rpg"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "atmospheric",
+   "boss-fights",
+   "gothic",
+   "melee-combat",
+   "souls-like",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "sekiro-shadows-die-twice",
+  "title": "Sekiro: Shadows Die Twice",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "FromSoftware"
+  ],
+  "publisher": "Activision",
+  "genres": [
+   "action",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "historical",
+   "melee-combat",
+   "ninja",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "hades",
+  "title": "Hades",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Supergiant Games"
+  ],
+  "publisher": "Supergiant Games",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "action-rpg",
+   "isometric",
+   "melee-combat",
+   "mythology",
+   "permadeath",
+   "procedural-generation",
+   "roguelike",
+   "story-rich"
+  ],
+  "franchise": "Hades",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dead-cells",
+  "title": "Dead Cells",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Motion Twin"
+  ],
+  "publisher": "Motion Twin",
+  "genres": [
+   "action",
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2d",
+   "melee-combat",
+   "metroidvania",
+   "permadeath",
+   "pixel-art",
+   "procedural-generation",
+   "roguelike",
+   "side-scrolling"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "super-smash-bros-ultimate",
+  "title": "Super Smash Bros. Ultimate",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Bandai Namco Studios",
+   "Sora Ltd."
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "2.5d",
+   "competitive",
+   "fighting",
+   "multiplayer",
+   "party",
+   "platform-fighter"
+  ],
+  "franchise": "Super Smash Bros.",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "street-fighter-6",
+  "title": "Street Fighter 6",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "competitive",
+   "fighting",
+   "multiplayer",
+   "stylish"
+  ],
+  "franchise": "Street Fighter",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "nier-automata",
+  "title": "NieR: Automata",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "PlatinumGames"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "action-rpg",
+   "hack-and-slash",
+   "melee-combat",
+   "multiple-endings",
+   "post-apocalyptic",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "NieR",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "monster-hunter-world",
+  "title": "Monster Hunter: World",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "co-op",
+   "crafting",
+   "fantasy",
+   "hunting",
+   "melee-combat",
+   "multiplayer",
+   "third-person"
+  ],
+  "franchise": "Monster Hunter",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "batman-arkham-city",
+  "title": "Batman: Arkham City",
+  "year": 2011,
+  "status": "released",
+  "developers": [
+   "Rocksteady Studios"
+  ],
+  "publisher": "Warner Bros. Interactive Entertainment",
+  "genres": [
+   "action",
+   "stealth",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "melee-combat",
+   "modern",
+   "open-world",
+   "stealth",
+   "story-rich",
+   "superhero",
+   "third-person"
+  ],
+  "franchise": "Batman: Arkham",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "control",
+  "title": "Control",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Remedy Entertainment"
+  ],
+  "publisher": "505 Games",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "exploration",
+   "modern",
+   "mystery",
+   "ranged-combat",
+   "story-rich",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "tomb-raider-2013",
+  "title": "Tomb Raider (2013)",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Crystal Dynamics"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "action",
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "puzzle-solving",
+   "ranged-combat",
+   "survival",
+   "third-person"
+  ],
+  "franchise": "Tomb Raider",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "shadow-of-the-colossus",
+  "title": "Shadow of the Colossus",
+  "year": 2005,
+  "status": "released",
+  "developers": [
+   "Team Ico"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "atmospheric",
+   "boss-fights",
+   "climbing",
+   "exploration",
+   "fantasy",
+   "minimalist",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "half-life-2",
+  "title": "Half-Life 2",
+  "year": 2004,
+  "status": "released",
+  "developers": [
+   "Valve"
+  ],
+  "publisher": "Valve",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "dystopian",
+   "first-person",
+   "physics",
+   "ranged-combat",
+   "sci-fi",
+   "story-rich"
+  ],
+  "franchise": "Half-Life",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "counter-strike-global-offensive",
+  "title": "Counter-Strike: Global Offensive",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "Valve",
+   "Hidden Path Entertainment"
+  ],
+  "publisher": "Valve",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "competitive",
+   "first-person",
+   "modern",
+   "multiplayer",
+   "ranged-combat",
+   "tactical",
+   "team-based"
+  ],
+  "franchise": "Counter-Strike",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "halo-combat-evolved",
+  "title": "Halo: Combat Evolved",
+  "year": 2001,
+  "status": "released",
+  "developers": [
+   "Bungie"
+  ],
+  "publisher": "Microsoft Game Studios",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "xbox",
+   "pc"
+  ],
+  "tags": [
+   "co-op",
+   "first-person",
+   "ranged-combat",
+   "sci-fi",
+   "space",
+   "story-rich"
+  ],
+  "franchise": "Halo",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "bioshock",
+  "title": "BioShock",
+  "year": 2007,
+  "status": "released",
+  "developers": [
+   "2K Boston",
+   "2K Australia"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "alt-history",
+   "atmospheric",
+   "dystopian",
+   "first-person",
+   "immersive-sim",
+   "ranged-combat",
+   "story-rich"
+  ],
+  "franchise": "BioShock",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "titanfall-2",
+  "title": "Titanfall 2",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Respawn Entertainment"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "first-person",
+   "mech",
+   "multiplayer",
+   "parkour",
+   "ranged-combat",
+   "sci-fi",
+   "story-rich"
+  ],
+  "franchise": "Titanfall",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "overwatch",
+  "title": "Overwatch",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Blizzard Entertainment"
+  ],
+  "publisher": "Blizzard Entertainment",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "competitive",
+   "first-person",
+   "hero-shooter",
+   "multiplayer",
+   "ranged-combat",
+   "sci-fi",
+   "team-based"
+  ],
+  "franchise": "Overwatch",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "apex-legends",
+  "title": "Apex Legends",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Respawn Entertainment"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "battle-royale",
+   "first-person",
+   "hero-shooter",
+   "multiplayer",
+   "ranged-combat",
+   "sci-fi",
+   "team-based"
+  ],
+  "franchise": "Titanfall",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "fortnite",
+  "title": "Fortnite",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Epic Games"
+  ],
+  "publisher": "Epic Games",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "battle-royale",
+   "building",
+   "comedy",
+   "multiplayer",
+   "ranged-combat",
+   "team-based",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "destiny-2",
+  "title": "Destiny 2",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Bungie"
+  ],
+  "publisher": "Activision",
+  "genres": [
+   "shooter",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "co-op",
+   "first-person",
+   "loot",
+   "looter-shooter",
+   "multiplayer",
+   "ranged-combat",
+   "sci-fi",
+   "space"
+  ],
+  "franchise": "Destiny",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "gears-of-war",
+  "title": "Gears of War",
+  "year": 2006,
+  "status": "released",
+  "developers": [
+   "Epic Games"
+  ],
+  "publisher": "Microsoft Game Studios",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "xbox",
+   "pc"
+  ],
+  "tags": [
+   "co-op",
+   "cover-shooter",
+   "military",
+   "ranged-combat",
+   "sci-fi",
+   "third-person"
+  ],
+  "franchise": "Gears of War",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "metro-exodus",
+  "title": "Metro Exodus",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "4A Games"
+  ],
+  "publisher": "Deep Silver",
+  "genres": [
+   "shooter",
+   "survival",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "crafting",
+   "first-person",
+   "post-apocalyptic",
+   "ranged-combat",
+   "stealth",
+   "story-rich",
+   "survival"
+  ],
+  "franchise": "Metro",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "stalker-shadow-of-chernobyl",
+  "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "year": 2007,
+  "status": "released",
+  "developers": [
+   "GSC Game World"
+  ],
+  "publisher": "THQ",
+  "genres": [
+   "shooter",
+   "survival",
+   "open-world"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "atmospheric",
+   "exploration",
+   "first-person",
+   "open-world",
+   "post-apocalyptic",
+   "ranged-combat",
+   "sci-fi",
+   "survival"
+  ],
+  "franchise": "S.T.A.L.K.E.R.",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "borderlands-2",
+  "title": "Borderlands 2",
+  "year": 2012,
+  "status": "released",
+  "developers": [
+   "Gearbox Software"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "shooter",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "co-op",
+   "comedy",
+   "first-person",
+   "loot",
+   "looter-shooter",
+   "ranged-combat",
+   "sci-fi"
+  ],
+  "franchise": "Borderlands",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "doom-2016",
+  "title": "DOOM (2016)",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "id Software"
+  ],
+  "publisher": "Bethesda Softworks",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "boss-fights",
+   "demons",
+   "first-person",
+   "ranged-combat",
+   "sci-fi",
+   "stylish"
+  ],
+  "franchise": "Doom",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "super-mario-bros",
+  "title": "Super Mario Bros.",
+  "year": 1985,
+  "status": "released",
+  "developers": [
+   "Nintendo R&D4"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "platformer"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "classic",
+   "precision-platforming",
+   "retro",
+   "side-scrolling"
+  ],
+  "franchise": "Super Mario",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "super-mario-odyssey",
+  "title": "Super Mario Odyssey",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Nintendo EPD"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "platformer"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "boss-fights",
+   "collectathon",
+   "exploration",
+   "precision-platforming",
+   "stylish",
+   "third-person"
+  ],
+  "franchise": "Super Mario",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "celeste",
+  "title": "Celeste",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Maddy Makes Games"
+  ],
+  "publisher": "Maddy Makes Games",
+  "genres": [
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "climbing",
+   "pixel-art",
+   "precision-platforming",
+   "side-scrolling",
+   "story-rich"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "hollow-knight",
+  "title": "Hollow Knight",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Team Cherry"
+  ],
+  "publisher": "Team Cherry",
+  "genres": [
+   "platformer",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "atmospheric",
+   "boss-fights",
+   "exploration",
+   "hand-drawn",
+   "melee-combat",
+   "metroidvania",
+   "side-scrolling"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "super-metroid",
+  "title": "Super Metroid",
+  "year": 1994,
+  "status": "released",
+  "developers": [
+   "Nintendo R&D1",
+   "Intelligent Systems"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "platformer",
+   "action"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "atmospheric",
+   "boss-fights",
+   "classic",
+   "exploration",
+   "metroidvania",
+   "sci-fi",
+   "side-scrolling"
+  ],
+  "franchise": "Metroid",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "metroid-dread",
+  "title": "Metroid Dread",
+  "year": 2021,
+  "status": "released",
+  "developers": [
+   "MercurySteam",
+   "Nintendo EPD"
+  ],
+  "publisher": "Nintendo",
+  "genres": [
+   "platformer",
+   "action"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "atmospheric",
+   "boss-fights",
+   "exploration",
+   "metroidvania",
+   "sci-fi",
+   "side-scrolling"
+  ],
+  "franchise": "Metroid",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "ori-and-the-blind-forest",
+  "title": "Ori and the Blind Forest",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Moon Studios"
+  ],
+  "publisher": "Microsoft Studios",
+  "genres": [
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "atmospheric",
+   "fantasy",
+   "hand-drawn",
+   "metroidvania",
+   "precision-platforming",
+   "side-scrolling",
+   "story-rich"
+  ],
+  "franchise": "Ori",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "sonic-mania",
+  "title": "Sonic Mania",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Christian Whitehead",
+   "Headcannon",
+   "PagodaWest Games"
+  ],
+  "publisher": "Sega",
+  "genres": [
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "arcade",
+   "classic",
+   "pixel-art",
+   "retro",
+   "side-scrolling"
+  ],
+  "franchise": "Sonic the Hedgehog",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "rayman-legends",
+  "title": "Rayman Legends",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Ubisoft Montpellier"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "co-op",
+   "comedy",
+   "hand-drawn",
+   "precision-platforming",
+   "side-scrolling"
+  ],
+  "franchise": "Rayman",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "cuphead",
+  "title": "Cuphead",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Studio MDHR"
+  ],
+  "publisher": "Studio MDHR",
+  "genres": [
+   "platformer",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "playstation",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "boss-fights",
+   "co-op",
+   "hand-drawn",
+   "retro",
+   "run-and-gun",
+   "side-scrolling"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "shovel-knight",
+  "title": "Shovel Knight",
+  "year": 2014,
+  "status": "released",
+  "developers": [
+   "Yacht Club Games"
+  ],
+  "publisher": "Yacht Club Games",
+  "genres": [
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "fantasy",
+   "melee-combat",
+   "pixel-art",
+   "precision-platforming",
+   "retro",
+   "side-scrolling"
+  ],
+  "franchise": "Shovel Knight",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "portal",
+  "title": "Portal",
+  "year": 2007,
+  "status": "released",
+  "developers": [
+   "Valve"
+  ],
+  "publisher": "Valve",
+  "genres": [
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "comedy",
+   "first-person",
+   "physics",
+   "puzzle-solving",
+   "sci-fi"
+  ],
+  "franchise": "Portal",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "portal-2",
+  "title": "Portal 2",
+  "year": 2011,
+  "status": "released",
+  "developers": [
+   "Valve"
+  ],
+  "publisher": "Valve",
+  "genres": [
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "co-op",
+   "comedy",
+   "first-person",
+   "physics",
+   "puzzle-solving",
+   "sci-fi",
+   "story-rich"
+  ],
+  "franchise": "Portal",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-witness",
+  "title": "The Witness",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Thekla, Inc."
+  ],
+  "publisher": "Thekla, Inc.",
+  "genres": [
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "exploration",
+   "first-person",
+   "logic",
+   "minimalist",
+   "open-world",
+   "puzzle-solving"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "baba-is-you",
+  "title": "Baba Is You",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Hempuli"
+  ],
+  "publisher": "Hempuli",
+  "genres": [
+   "puzzle"
+  ],
+  "platforms": [
+   "pc",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "logic",
+   "minimalist",
+   "pixel-art",
+   "puzzle-solving"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "monument-valley",
+  "title": "Monument Valley",
+  "year": 2014,
+  "status": "released",
+  "developers": [
+   "ustwo games"
+  ],
+  "publisher": "ustwo games",
+  "genres": [
+   "puzzle"
+  ],
+  "platforms": [
+   "mobile"
+  ],
+  "tags": [
+   "atmospheric",
+   "illusion",
+   "isometric",
+   "minimalist",
+   "puzzle-solving"
+  ],
+  "franchise": "Monument Valley",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "myst",
+  "title": "Myst",
+  "year": 1993,
+  "status": "released",
+  "developers": [
+   "Cyan"
+  ],
+  "publisher": "Brøderbund",
+  "genres": [
+   "puzzle",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "mobile",
+   "nintendo"
+  ],
+  "tags": [
+   "atmospheric",
+   "classic",
+   "exploration",
+   "first-person",
+   "mystery",
+   "point-and-click",
+   "puzzle-solving"
+  ],
+  "franchise": "Myst",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "braid",
+  "title": "Braid",
+  "year": 2008,
+  "status": "released",
+  "developers": [
+   "Number None"
+  ],
+  "publisher": "Number None",
+  "genres": [
+   "puzzle",
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "playstation"
+  ],
+  "tags": [
+   "2d",
+   "hand-drawn",
+   "puzzle-solving",
+   "side-scrolling",
+   "story-rich",
+   "time-manipulation"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "papers-please",
+  "title": "Papers, Please",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Lucas Pope"
+  ],
+  "publisher": "3909 LLC",
+  "genres": [
+   "puzzle",
+   "simulation"
+  ],
+  "platforms": [
+   "pc",
+   "mobile",
+   "playstation"
+  ],
+  "tags": [
+   "2d",
+   "dystopian",
+   "management",
+   "moral-choices",
+   "multiple-endings",
+   "pixel-art",
+   "political",
+   "story-rich"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "god-of-war-ragnarok",
+  "title": "God of War Ragnarök",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "Santa Monica Studio"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "boss-fights",
+   "cinematic",
+   "exploration",
+   "melee-combat",
+   "mythology",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "God of War",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "ghost-of-yotei",
+  "title": "Ghost of Yotei",
+  "year": 2025,
+  "status": "released",
+  "developers": [
+   "Sucker Punch Productions"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action",
+   "stealth"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "cinematic",
+   "exploration",
+   "historical",
+   "melee-combat",
+   "open-world",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": "Ghost",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "marvels-spider-man-2",
+  "title": "Marvel's Spider-Man 2",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Insomniac Games"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "melee-combat",
+   "modern",
+   "open-world",
+   "story-rich",
+   "superhero",
+   "third-person",
+   "traversal"
+  ],
+  "franchise": "Marvel's Spider-Man",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "horizon-forbidden-west",
+  "title": "Horizon Forbidden West",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "Guerrilla Games"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "crafting",
+   "exploration",
+   "open-world",
+   "post-apocalyptic",
+   "ranged-combat",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Horizon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "uncharted-the-lost-legacy",
+  "title": "Uncharted: The Lost Legacy",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Naughty Dog"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "puzzle-solving",
+   "ranged-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Uncharted",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "uncharted-2-among-thieves",
+  "title": "Uncharted 2: Among Thieves",
+  "year": 2009,
+  "status": "released",
+  "developers": [
+   "Naughty Dog"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "ranged-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Uncharted",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "uncharted-3-drakes-deception",
+  "title": "Uncharted 3: Drake's Deception",
+  "year": 2011,
+  "status": "released",
+  "developers": [
+   "Naughty Dog"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "ranged-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Uncharted",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "uncharted-drakes-fortune",
+  "title": "Uncharted: Drake's Fortune",
+  "year": 2007,
+  "status": "released",
+  "developers": [
+   "Naughty Dog"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "ranged-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Uncharted",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "resident-evil-requiem",
+  "title": "Resident Evil Requiem",
+  "year": 2026,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "horror",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "atmospheric",
+   "first-person",
+   "psychological-horror",
+   "puzzle-solving",
+   "story-rich",
+   "survival-horror",
+   "third-person"
+  ],
+  "franchise": "Resident Evil",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "red-dead-redemption",
+  "title": "Red Dead Redemption",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "Rockstar San Diego"
+  ],
+  "publisher": "Rockstar Games",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "playstation",
+   "xbox",
+   "nintendo",
+   "pc"
+  ],
+  "tags": [
+   "historical",
+   "hunting",
+   "open-world",
+   "ranged-combat",
+   "story-rich",
+   "third-person",
+   "western"
+  ],
+  "franchise": "Red Dead",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "batman-arkham-knight",
+  "title": "Batman: Arkham Knight",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Rocksteady Studios"
+  ],
+  "publisher": "Warner Bros. Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "driving",
+   "melee-combat",
+   "modern",
+   "open-world",
+   "stealth",
+   "story-rich",
+   "superhero",
+   "third-person"
+  ],
+  "franchise": "Batman: Arkham",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "days-gone",
+  "title": "Days Gone",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Bend Studio"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "survival",
+   "action"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "crafting",
+   "open-world",
+   "post-apocalyptic",
+   "ranged-combat",
+   "story-rich",
+   "survival",
+   "third-person",
+   "zombies"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "death-stranding-2-on-the-beach",
+  "title": "Death Stranding 2: On the Beach",
+  "year": 2025,
+  "status": "released",
+  "developers": [
+   "Kojima Productions"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "cinematic",
+   "exploration",
+   "open-world",
+   "post-apocalyptic",
+   "sci-fi",
+   "story-rich",
+   "third-person",
+   "traversal"
+  ],
+  "franchise": "Death Stranding",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "ratchet-and-clank-rift-apart",
+  "title": "Ratchet & Clank: Rift Apart",
+  "year": 2021,
+  "status": "released",
+  "developers": [
+   "Insomniac Games"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "action",
+   "platformer"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "boss-fights",
+   "collectathon",
+   "comedy",
+   "ranged-combat",
+   "sci-fi",
+   "stylish",
+   "third-person"
+  ],
+  "franchise": "Ratchet & Clank",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "final-fantasy-vii-remake",
+  "title": "Final Fantasy VII Remake",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Square Enix"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "cinematic",
+   "fantasy",
+   "party-based",
+   "real-time-combat",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Final Fantasy",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "final-fantasy-vii-rebirth",
+  "title": "Final Fantasy VII Rebirth",
+  "year": 2024,
+  "status": "released",
+  "developers": [
+   "Square Enix"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "rpg",
+   "action",
+   "open-world"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "exploration",
+   "fantasy",
+   "open-world",
+   "party-based",
+   "real-time-combat",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Final Fantasy",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "final-fantasy-xvi",
+  "title": "Final Fantasy XVI",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Square Enix"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "boss-fights",
+   "cinematic",
+   "dark-fantasy",
+   "fantasy",
+   "real-time-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Final Fantasy",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dragons-dogma-2",
+  "title": "Dragon's Dogma 2",
+  "year": 2024,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "rpg",
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "action-rpg",
+   "exploration",
+   "fantasy",
+   "melee-combat",
+   "open-world",
+   "party-based",
+   "third-person"
+  ],
+  "franchise": "Dragon's Dogma",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "horizon-call-of-the-mountain",
+  "title": "Horizon Call of the Mountain",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Guerrilla Games",
+   "Firesprite"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "climbing",
+   "exploration",
+   "first-person",
+   "post-apocalyptic",
+   "ranged-combat",
+   "sci-fi",
+   "vr"
+  ],
+  "franchise": "Horizon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "alan-wake",
+  "title": "Alan Wake",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "Remedy Entertainment"
+  ],
+  "publisher": "Microsoft Game Studios",
+  "genres": [
+   "horror",
+   "narrative",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "atmospheric",
+   "mystery",
+   "psychological-horror",
+   "story-rich",
+   "supernatural",
+   "third-person",
+   "thriller"
+  ],
+  "franchise": "Alan Wake",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "forza-horizon-6",
+  "title": "Forza Horizon 6",
+  "year": 2026,
+  "status": "released",
+  "developers": [
+   "Playground Games"
+  ],
+  "publisher": "Xbox Game Studios",
+  "genres": [
+   "racing",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "playstation"
+  ],
+  "tags": [
+   "arcade",
+   "customization",
+   "driving",
+   "exploration",
+   "modern",
+   "multiplayer",
+   "open-world"
+  ],
+  "franchise": "Forza Horizon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mina-the-hollower",
+  "title": "Mina the Hollower",
+  "year": 2026,
+  "status": "released",
+  "developers": [
+   "Yacht Club Games"
+  ],
+  "publisher": "Yacht Club Games",
+  "genres": [
+   "action",
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "2d",
+   "boss-fights",
+   "exploration",
+   "gothic",
+   "melee-combat",
+   "pixel-art",
+   "top-down"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "007-first-light",
+  "title": "007 First Light",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "IO Interactive"
+  ],
+  "publisher": "IO Interactive",
+  "genres": [
+   "action",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "cinematic",
+   "modern",
+   "spy",
+   "stealth",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "saros",
+  "title": "Saros",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Housemarque"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "playstation"
+  ],
+  "tags": [
+   "boss-fights",
+   "permadeath",
+   "ranged-combat",
+   "roguelike",
+   "sci-fi",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-blood-of-dawnwalker",
+  "title": "The Blood of Dawnwalker",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Rebel Wolves"
+  ],
+  "publisher": "Bandai Namco Entertainment",
+  "genres": [
+   "rpg",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "dark-fantasy",
+   "gothic",
+   "melee-combat",
+   "open-world",
+   "story-rich",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "pragmata",
+  "title": "Pragmata",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "action",
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "puzzle-solving",
+   "ranged-combat",
+   "sci-fi",
+   "space",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "nioh-3",
+  "title": "Nioh 3",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Team Ninja"
+  ],
+  "publisher": "Koei Tecmo",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "action-rpg",
+   "boss-fights",
+   "historical",
+   "melee-combat",
+   "ninja",
+   "souls-like",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": "Nioh",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "monster-hunter-stories-3",
+  "title": "Monster Hunter Stories 3",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "nintendo"
+  ],
+  "tags": [
+   "creature-collecting",
+   "exploration",
+   "fantasy",
+   "party-based",
+   "story-rich",
+   "third-person",
+   "turn-based"
+  ],
+  "franchise": "Monster Hunter",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mewgenics",
+  "title": "Mewgenics",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Edmund McMillen",
+   "Tyler Glaiel"
+  ],
+  "publisher": null,
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "comedy",
+   "creature-collecting",
+   "hand-drawn",
+   "permadeath",
+   "roguelike",
+   "tactical",
+   "turn-based"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "pokemon-pokopia",
+  "title": "Pokémon Pokopia",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [],
+  "publisher": "Nintendo",
+  "genres": [
+   "simulation"
+  ],
+  "platforms": [
+   "nintendo"
+  ],
+  "tags": [
+   "building",
+   "cozy",
+   "crafting",
+   "creature-collecting",
+   "customization",
+   "life-sim",
+   "sandbox"
+  ],
+  "franchise": "Pokémon",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "big-walk",
+  "title": "Big Walk",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "House House"
+  ],
+  "publisher": null,
+  "genres": [
+   "narrative",
+   "simulation"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "tags": [
+   "co-op",
+   "comedy",
+   "exploration",
+   "multiplayer",
+   "puzzle-solving",
+   "third-person",
+   "wilderness"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "cairn",
+  "title": "Cairn",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "The Game Bakers"
+  ],
+  "publisher": "The Game Bakers",
+  "genres": [
+   "survival",
+   "simulation"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "climbing",
+   "physics",
+   "realistic",
+   "survival",
+   "third-person",
+   "wilderness"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "trails-in-the-sky-2nd-chapter",
+  "title": "Trails in the Sky 2nd Chapter",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Nihon Falcom"
+  ],
+  "publisher": "NIS America",
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "nintendo"
+  ],
+  "tags": [
+   "anime",
+   "dialogue-heavy",
+   "exploration",
+   "fantasy",
+   "party-based",
+   "story-rich",
+   "turn-based"
+  ],
+  "franchise": "Trails",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "onimusha-way-of-the-sword",
+  "title": "Onimusha: Way of the Sword",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "demons",
+   "historical",
+   "melee-combat",
+   "ninja",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": "Onimusha",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "phantom-blade-zero",
+  "title": "Phantom Blade Zero",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "S-GAME"
+  ],
+  "publisher": "S-GAME",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation"
+  ],
+  "tags": [
+   "boss-fights",
+   "dark-fantasy",
+   "historical",
+   "melee-combat",
+   "stylish",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "silent-hill-townfall",
+  "title": "Silent Hill: Townfall",
+  "year": 2026,
+  "status": "upcoming",
+  "developers": [
+   "No Code"
+  ],
+  "publisher": "Konami",
+  "genres": [
+   "horror",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "atmospheric",
+   "mystery",
+   "psychological-horror",
+   "story-rich",
+   "supernatural"
+  ],
+  "franchise": "Silent Hill",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Announced title: year, developers and publisher come from the announcement, not from a release record, and may change.",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "a-plague-tale-requiem",
+  "title": "A Plague Tale: Requiem",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "Asobo Studio"
+  ],
+  "publisher": "Focus Entertainment",
+  "genres": [
+   "stealth",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "cinematic",
+   "historical",
+   "medieval",
+   "puzzle-solving",
+   "stealth",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "A Plague Tale",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "until-dawn",
+  "title": "Until Dawn",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Supermassive Games"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "horror",
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "cinematic",
+   "multiple-endings",
+   "story-rich",
+   "supernatural",
+   "survival-horror",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "heavy-rain",
+  "title": "Heavy Rain",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "Quantic Dream"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "cinematic",
+   "detective",
+   "multiple-endings",
+   "mystery",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "beyond-two-souls",
+  "title": "Beyond: Two Souls",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Quantic Dream"
+  ],
+  "publisher": "Sony Computer Entertainment",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "cinematic",
+   "story-rich",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-quarry",
+  "title": "The Quarry",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "Supermassive Games"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "horror",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "cinematic",
+   "multiple-endings",
+   "story-rich",
+   "supernatural",
+   "survival-horror",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "life-is-strange-true-colors",
+  "title": "Life is Strange: True Colors",
+  "year": 2021,
+  "status": "released",
+  "developers": [
+   "Deck Nine"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "branching",
+   "choices-matter",
+   "dialogue-heavy",
+   "mystery",
+   "story-rich",
+   "supernatural",
+   "third-person"
+  ],
+  "franchise": "Life Is Strange",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "hellblade-senuas-sacrifice",
+  "title": "Hellblade: Senua's Sacrifice",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Ninja Theory"
+  ],
+  "publisher": "Ninja Theory",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "atmospheric",
+   "cinematic",
+   "melee-combat",
+   "mythology",
+   "psychological-horror",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Hellblade",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "senuas-saga-hellblade-ii",
+  "title": "Senua's Saga: Hellblade II",
+  "year": 2024,
+  "status": "released",
+  "developers": [
+   "Ninja Theory"
+  ],
+  "publisher": "Xbox Game Studios",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "playstation"
+  ],
+  "tags": [
+   "atmospheric",
+   "cinematic",
+   "melee-combat",
+   "mythology",
+   "psychological-horror",
+   "realistic",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Hellblade",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "marvels-guardians-of-the-galaxy",
+  "title": "Marvel's Guardians of the Galaxy",
+  "year": 2021,
+  "status": "released",
+  "developers": [
+   "Eidos-Montréal"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "choices-matter",
+   "comedy",
+   "ranged-combat",
+   "sci-fi",
+   "space",
+   "story-rich",
+   "superhero",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "star-wars-jedi-fallen-order",
+  "title": "Star Wars Jedi: Fallen Order",
+  "year": 2019,
+  "status": "released",
+  "developers": [
+   "Respawn Entertainment"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "exploration",
+   "melee-combat",
+   "metroidvania",
+   "sci-fi",
+   "souls-like",
+   "space",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Star Wars",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "star-wars-jedi-survivor",
+  "title": "Star Wars Jedi: Survivor",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Respawn Entertainment"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "exploration",
+   "melee-combat",
+   "metroidvania",
+   "sci-fi",
+   "souls-like",
+   "space",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Star Wars",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "assassins-creed-iv-black-flag",
+  "title": "Assassin's Creed IV: Black Flag",
+  "year": 2013,
+  "status": "released",
+  "developers": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "open-world",
+   "action",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "exploration",
+   "historical",
+   "melee-combat",
+   "open-world",
+   "pirates",
+   "stealth",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Assassin's Creed",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "assassins-creed-origins",
+  "title": "Assassin's Creed Origins",
+  "year": 2017,
+  "status": "released",
+  "developers": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "open-world",
+   "rpg",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "action-rpg",
+   "exploration",
+   "historical",
+   "melee-combat",
+   "open-world",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": "Assassin's Creed",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "assassins-creed-shadows",
+  "title": "Assassin's Creed Shadows",
+  "year": 2025,
+  "status": "released",
+  "developers": [
+   "Ubisoft Quebec"
+  ],
+  "publisher": "Ubisoft",
+  "genres": [
+   "open-world",
+   "rpg",
+   "stealth"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "action-rpg",
+   "exploration",
+   "historical",
+   "melee-combat",
+   "ninja",
+   "open-world",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": "Assassin's Creed",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "rise-of-the-ronin",
+  "title": "Rise of the Ronin",
+  "year": 2024,
+  "status": "released",
+  "developers": [
+   "Team Ninja"
+  ],
+  "publisher": "Sony Interactive Entertainment",
+  "genres": [
+   "open-world",
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "playstation",
+   "pc"
+  ],
+  "tags": [
+   "action-rpg",
+   "choices-matter",
+   "historical",
+   "melee-combat",
+   "open-world",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "lies-of-p",
+  "title": "Lies of P",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "Round8 Studio"
+  ],
+  "publisher": "Neowiz",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "atmospheric",
+   "boss-fights",
+   "dark-fantasy",
+   "gothic",
+   "melee-combat",
+   "souls-like",
+   "steampunk",
+   "third-person"
+  ],
+  "franchise": "Lies of P",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "black-myth-wukong",
+  "title": "Black Myth: Wukong",
+  "year": 2024,
+  "status": "released",
+  "developers": [
+   "Game Science"
+  ],
+  "publisher": "Game Science",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "action-rpg",
+   "boss-fights",
+   "fantasy",
+   "melee-combat",
+   "mythology",
+   "stylish",
+   "third-person"
+  ],
+  "franchise": "Black Myth",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "armored-core-vi-fires-of-rubicon",
+  "title": "Armored Core VI: Fires of Rubicon",
+  "year": 2023,
+  "status": "released",
+  "developers": [
+   "FromSoftware"
+  ],
+  "publisher": "Bandai Namco Entertainment",
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "customization",
+   "mech",
+   "ranged-combat",
+   "sci-fi",
+   "third-person"
+  ],
+  "franchise": "Armored Core",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "monster-hunter-wilds",
+  "title": "Monster Hunter Wilds",
+  "year": 2025,
+  "status": "released",
+  "developers": [
+   "Capcom"
+  ],
+  "publisher": "Capcom",
+  "genres": [
+   "action",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "co-op",
+   "crafting",
+   "fantasy",
+   "hunting",
+   "melee-combat",
+   "multiplayer",
+   "open-world",
+   "third-person"
+  ],
+  "franchise": "Monster Hunter",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dragon-age-the-veilguard",
+  "title": "Dragon Age: The Veilguard",
+  "year": 2024,
+  "status": "released",
+  "developers": [
+   "BioWare"
+  ],
+  "publisher": "Electronic Arts",
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "action-rpg",
+   "choices-matter",
+   "dialogue-heavy",
+   "fantasy",
+   "party-based",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Dragon Age",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "kingdom-come-deliverance-ii",
+  "title": "Kingdom Come: Deliverance II",
+  "year": 2025,
+  "status": "released",
+  "developers": [
+   "Warhorse Studios"
+  ],
+  "publisher": "Deep Silver",
+  "genres": [
+   "rpg",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "choices-matter",
+   "first-person",
+   "historical",
+   "medieval",
+   "melee-combat",
+   "open-world",
+   "realistic",
+   "story-rich"
+  ],
+  "franchise": "Kingdom Come",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mafia-definitive-edition",
+  "title": "Mafia: Definitive Edition",
+  "year": 2020,
+  "status": "released",
+  "developers": [
+   "Hangar 13"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "open-world",
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "cinematic",
+   "crime",
+   "driving",
+   "historical",
+   "open-world",
+   "ranged-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Mafia",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mafia-ii",
+  "title": "Mafia II",
+  "year": 2010,
+  "status": "released",
+  "developers": [
+   "2K Czech"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "open-world",
+   "action",
+   "narrative"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "crime",
+   "driving",
+   "historical",
+   "open-world",
+   "ranged-combat",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Mafia",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "mafia-iii",
+  "title": "Mafia III",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Hangar 13"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "open-world",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "crime",
+   "driving",
+   "historical",
+   "open-world",
+   "ranged-combat",
+   "stealth",
+   "third-person"
+  ],
+  "franchise": "Mafia",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "rise-of-the-tomb-raider",
+  "title": "Rise of the Tomb Raider",
+  "year": 2015,
+  "status": "released",
+  "developers": [
+   "Crystal Dynamics"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "action",
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "puzzle-solving",
+   "ranged-combat",
+   "stealth",
+   "survival",
+   "third-person"
+  ],
+  "franchise": "Tomb Raider",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "shadow-of-the-tomb-raider",
+  "title": "Shadow of the Tomb Raider",
+  "year": 2018,
+  "status": "released",
+  "developers": [
+   "Eidos-Montréal"
+  ],
+  "publisher": "Square Enix",
+  "genres": [
+   "action",
+   "survival"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "cinematic",
+   "climbing",
+   "exploration",
+   "puzzle-solving",
+   "ranged-combat",
+   "stealth",
+   "survival",
+   "third-person"
+  ],
+  "franchise": "Tomb Raider",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "dying-light-2-stay-human",
+  "title": "Dying Light 2 Stay Human",
+  "year": 2022,
+  "status": "released",
+  "developers": [
+   "Techland"
+  ],
+  "publisher": "Techland",
+  "genres": [
+   "survival",
+   "action",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo"
+  ],
+  "tags": [
+   "choices-matter",
+   "co-op",
+   "crafting",
+   "first-person",
+   "melee-combat",
+   "open-world",
+   "parkour",
+   "survival",
+   "zombies"
+  ],
+  "franchise": "Dying Light",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "the-elder-scrolls-iv-oblivion",
+  "title": "The Elder Scrolls IV: Oblivion",
+  "year": 2006,
+  "status": "released",
+  "developers": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": "2K Games",
+  "genres": [
+   "rpg",
+   "open-world"
+  ],
+  "platforms": [
+   "pc",
+   "xbox",
+   "playstation"
+  ],
+  "tags": [
+   "choices-matter",
+   "exploration",
+   "fantasy",
+   "first-person",
+   "melee-combat",
+   "open-world",
+   "sandbox"
+  ],
+  "franchise": "The Elder Scrolls",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "doom-the-dark-ages",
+  "title": "DOOM: The Dark Ages",
+  "year": 2025,
+  "status": "released",
+  "developers": [
+   "id Software"
+  ],
+  "publisher": "Bethesda Softworks",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox"
+  ],
+  "tags": [
+   "boss-fights",
+   "dark-fantasy",
+   "demons",
+   "first-person",
+   "medieval",
+   "melee-combat",
+   "ranged-combat"
+  ],
+  "franchise": "Doom",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "gears-of-war-e-day",
+  "title": "Gears of War: E-Day",
+  "year": 2026,
+  "status": "released",
+  "developers": [
+   "The Coalition"
+  ],
+  "publisher": "Xbox Game Studios",
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc",
+   "xbox"
+  ],
+  "tags": [
+   "co-op",
+   "cover-shooter",
+   "military",
+   "ranged-combat",
+   "sci-fi",
+   "story-rich",
+   "third-person"
+  ],
+  "franchise": "Gears of War",
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ },
+ {
+  "id": "inside",
+  "title": "Inside",
+  "year": 2016,
+  "status": "released",
+  "developers": [
+   "Playdead"
+  ],
+  "publisher": "Playdead",
+  "genres": [
+   "puzzle",
+   "platformer"
+  ],
+  "platforms": [
+   "pc",
+   "playstation",
+   "xbox",
+   "nintendo",
+   "mobile"
+  ],
+  "tags": [
+   "2.5d",
+   "atmospheric",
+   "dystopian",
+   "puzzle-solving",
+   "side-scrolling",
+   "stealth",
+   "wordless"
+  ],
+  "franchise": null,
+  "officialUrl": null,
+  "image": null,
+  "provenance": {
+   "core": "Hand-curated from public release records (year, developers, publisher, platform families).",
+   "tags": "Editorial classification using the fixed vocabulary in vocabulary.json; not machine generated."
+  }
+ }
+]
